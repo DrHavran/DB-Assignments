@@ -13,7 +13,7 @@ export async function getData(file) {
         window.location.hostname === "drhavran.github.io";
 
     const url = isProduction
-        ? `https://drhavran.github.io/DB-assignments/${file}`
+        ? `https://drhavran.github.io/DB-Assignments/${file}`
         : `../${file}`;
 
     const response = await fetch(url);
