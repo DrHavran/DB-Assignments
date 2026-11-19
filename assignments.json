@@ -1,0 +1,138 @@
+{
+    "Z1": {
+      "A": {
+        "1": "Všechny zvířecí druhy",
+        "2": "Všechna lehká zvířata (= lehčí než 50)",
+        "3": "Jména zvířat začínající na \"A\"",
+        "4": "Zvířata seřazená podle abecedy"
+      },
+      "B": {
+        "1": "Jména všech slonů",
+        "2": "Všechny druhy mající zástupce mezi Juliemi",
+        "3": "Datum narození netopýra \"Sisi\""
+      },
+      "C": {
+        "1": "Pět nejlehčích zvířat",
+        "2": "Nejtěžšího králíka",
+        "3": "Nejstaršího vlka"
+      }
+    },
+    "Z2": {
+      "D": {
+        "1": "Jména těžkých vlků (\"těžké\" znamená 50 nebo více)",
+        "2": "Jméno nejtěžšího z lehkých pavouků (\"lehké\" znamená méně než 50)",
+        "3": "Jména všech zvířat začínajících na \"A\" nebo \"B\""
+      },
+      "E": {
+        "1": "Název druhu třetí nejstarší Julie",
+        "2": "Název druhu nejtěžšího zvířete narozeného v lednu 2003",
+        "3": "Jména středně těžkých zvířat začínajících na \"C\" nebo končících na \"A\". (Středně těžké znamená \"vážící mezi 50 a 100\")"
+      },
+      "F": {
+        "1": "Všechny druhy zvířat, které váží stejně, jako nejtěžší zvíře"
+      }
+    },
+    "Z3": {
+      "G": {
+        "1": "Kdo ošetřuje nejtěžšího pavouka?",
+        "2": "Jména všech těžkých zvířat, které ošetřují lidé narození v roce 1950 (\"těžké\" je přes 50)",
+        "3": "Jména všech lidí, kteří mají rádi škvory"
+      },
+      "H": {
+        "1": "Nejtěžší zvíře, které má rád ošetřovatel Luke Jansa",
+        "2": "Druhy všech lehkých zvířat, která ošetřují Emilové",
+        "3": "Druh nejtěžšího zvířete, které ošetřuje nejstarší ošetřovatel"
+      },
+      "I": {
+        "1": "Všechny dvojice ošetřovatel - zvíře, kde zvíře je těžší než věk ošetřovatele v letech"
+      }
+    },
+    "A1": {
+      "J": {
+        "1": "Jméno nejmladšího ošetřovatele?",
+        "2": "Kolik váží dohromady všechny vodoměrky?",
+        "3": "Kolik zvířat (kusů zvířat, ne druhů!) má rád Aaron Kropáček?"
+      },
+      "K": {
+        "1": "Kteří ošetřovatelé mají rádi alespoň jedno zvíře, které ošetřují?",
+        "2": "Kteří ošetřovatelé s láskou krmí šneky?",
+        "3": "Která zvířata jsou s láskou krmena stejným ošetřovatelem, jako vrabec Falco?"
+      }
+    },
+    "A2": {
+      "M": {
+        "1": "Jaká je průměrná váha vrabce?",
+        "2": "Kdo je nejvytíženějším chovatelem? (ošetřuje nejvíce zvířat)",
+        "3": "Kolik různých druhů ošetřují jednotliví ošetřovatelé?"
+      },
+      "N": {
+        "1": "Které druhy mají pouze těžká zvířata (zvířata vážící přes 50)",
+        "2": "Který druh má nejvyšší váhový průměr?",
+        "3": "Kolik zvířat s láskou ošetřují jednotliví ošetřovatelé?"
+      },
+      "O 🍬": {
+        "1": "Kolik váží dohromady všechny oblíbené andulky?",
+        "2": "Průměrná váha 20ti letých zvířat (Vyžaduje zásadní zamyšlení a trochu porochnění v manuálu k datumovým a časovým funkcím)"
+      }
+    },
+    "K1": {
+      "P": {
+        "1": "Kolik druhů nikdo nemá rád? Hint: Pozor na \"... ON (xxx != yyy) ... \" - to asi nebude fungovat (zdůvodněte si proč!). Zkuste si raději v jednom dotazu spočítat počet druhů celkem a počet druhů, které někdo má rád.",
+        "2": "Kteří ošetřovatelé ošetřují více zvířat stejného druhu? Hint: Zvládnete vypsat, kolik zvířat od kterého druhu ošetřují jednotliví ošetřovatelé?",
+        "3": "Kteří ošetřovatelé ošetřují více zvířat se stejnou vahou? Hint: Možná že budete některé tabulky potřebovat vícekrát....",
+        "4": "* Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 1x denně a má-li jej navíc rád, pak 2x denně? Hint: Zkuste taky něco bez nápovědy :-)"
+      }
+    },
+    "K2": {
+      "Q": {
+        "1": "Které druhy mají průměrnou váhu přes 50?",
+        "2": "Kdo je ošetřovatelem největšího počtu andulek?",
+        "3": "Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 2x denně"
+      }
+    },
+    "K3": {
+      "R": {
+        "1": "Kteří ošetřovatelé nemají rádi vrabce?",
+        "2": "Který ošetřovatel je nejvíce nenávistný? (Nemá rád nejvíce druhů) ?",
+        "3": "Kolik těžkých zvířat (váha přes 50) je krmeno méně než dvěma ošetřovateli?"
+      },
+      "S": {
+        "1": "Zvířata, která jsou krmena osobou, která je nemá ráda",
+        "2": "Neošetřovaná, a přesto milovaná zvířata",
+        "3": "* Neošetřovaná a současně nemilovaná zvířata ?"
+      },
+      "T": {
+        "1": "(10% a bonbón) Seznam zvířat, kterou ošetřují POUZE lidi, kteří je milují? (Vyžaduje zásadní zamyšlení a pročtení studnice vědomostí (kapitola o LEFT JOINu, příklad č. iii).)"
+      }
+    },
+    "K4": {
+      "U": {
+        "1": "Jména nejlehčích zvířat (Všechna zvířata, která váží stejně jako nejlehčí)",
+        "2": "Která zvířata (jméno a druh) ošetřuje nejstarší ošetřovatel?",
+        "3": "Jméno nejlehčího zvířete s více než jedním ošetřovatelem"
+      },
+      "V": {
+        "1": "Ke každému ošetřovateli vypište jméno nejtěžšího zvířete, které ošetřuje",
+        "2": "Jméno a druh \"prodatelných\" zvířata (= nejstarší zvíře každého druhu, pokud bych prodejem daného zvířete nepřišel o posledního zástupce daného druhu)",
+        "3": "* Vypište ošetřovatele, s nimiž si má Luke JANSA o čem popovídat (= mají rádi společně rádi alespoň jeden druh)"
+      },
+      "W": {
+        "1": "(10% a bonbón) Vypište jméno váhově nejprůměrnějšího zvířete (zvíře, jehož váha se od průměrné váhy všech zvířat liší co nejméně) Výsledkem by mělo být pouze jméno, nic víc"
+      }
+    },
+    "K5": {
+      "X": {
+        "1": "Ošetřovatele, kteří ošetřují dvě (nebo více) zvířat se shodným datem narození",
+        "2": "Nejplodnější den (den, kdy se narodilo nejvíce zvířat - chce se pouze datum!)",
+        "3": "Nejstarší nemilované zvíře (chce se POUZE JMÉNO!)"
+      },
+      "Y": {
+        "1": "Pro každého ošetřovatele vypište nejstarší zvíře, které daný ošetřovatel NEošetřuje",
+        "2": "Pro každého ošetřovatele vypište počet zvířat, které daný ošetřovatel neošetřuje, ale má je rád",
+        "3": "Data, v nichž se narodila pouze zvířata (tedy nějaké zvíře, ale žádný ošetřovatel)"
+      },
+      "Z": {
+        "1": "Vypište nejplodnější den v týdnu (tzn. den v týdnu: Pondělí, úterý..., kdy se narodilo nejvíce zvířat). Nezáleží na tom, jakým jazykem nebo jestli to bude zkratka (K úspěšnému řešení asi budete potřebovat mrknout do manuálu na funkce pro manipulaci s datem a časem)"
+      }
+    }
+  }
