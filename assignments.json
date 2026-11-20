@@ -85,7 +85,7 @@
     },
     "K2": {
       "Q": {
-        "1": { "text": "Které druhy mají průměrnou váhu přes 50?", "note": "" },
+        "1": { "text": "Které druhy mají průměrnou váhu nad 50?", "note": "" },
         "2": { "text": "Kdo je ošetřovatelem největšího počtu andulek?", "note": "" },
         "3": { "text": "Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 2x denně", "note": "" }
       }
@@ -93,37 +93,37 @@
     "K3": {
       "R": {
         "1": { "text": "Kteří ošetřovatelé nemají rádi vrabce?", "note": "" },
-        "2": { "text": "Který ošetřovatel je nejvíce nenávistný? (Nemá rád nejvíce druhů) ?", "note": "" },
-        "3": { "text": "Kolik těžkých zvířat (váha přes 50) je krmeno méně než dvěma ošetřovateli?", "note": "" }
+        "2": { "text": "Který ošetřovatel je nejvíce nenávistný?", "note": "Nemá rád nejvíce druhů" },
+        "3": { "text": "Kolik těžkých zvířat je krmeno méně než dvěma ošetřovateli?", "note": "Těžká zvířata jsou x >= 50" }
       },
       "S": {
         "1": { "text": "Zvířata, která jsou krmena osobou, která je nemá ráda", "note": "" },
         "2": { "text": "Neošetřovaná, a přesto milovaná zvířata", "note": "" },
-        "3": { "text": "* Neošetřovaná a současně nemilovaná zvířata ?", "note": "" }
+        "3": { "text": "Neošetřovaná a současně nemilovaná zvířata ?", "note": "" }
       },
-      "T": {
-        "1": { "text": "(10% a bonbón) Seznam zvířat, kterou ošetřují POUZE lidi, kteří je milují? (Vyžaduje zásadní zamyšlení a pročtení studnice vědomostí (kapitola o LEFT JOINu, příklad č. iii).)", "note": "" }
+      "T 🍬": {
+        "1": { "text": "Seznam zvířat, kterou ošetřují POUZE lidi, kteří je milují?", "note": "Vyžaduje LEFT JOIN" }
       }
     },
     "K4": {
       "U": {
-        "1": { "text": "Jména nejlehčích zvířat (Všechna zvířata, která váží stejně jako nejlehčí)", "note": "" },
-        "2": { "text": "Která zvířata (jméno a druh) ošetřuje nejstarší ošetřovatel?", "note": "" },
+        "1": { "text": "Jména nejlehčích zvířat", "note": "Všechna zvířata, která váží stejně jako nejlehčí" },
+        "2": { "text": "Která zvířata ošetřuje nejstarší ošetřovatel?", "note": "" },
         "3": { "text": "Jméno nejlehčího zvířete s více než jedním ošetřovatelem", "note": "" }
       },
       "V": {
         "1": { "text": "Ke každému ošetřovateli vypište jméno nejtěžšího zvířete, které ošetřuje", "note": "" },
-        "2": { "text": "Jméno a druh \"prodatelných\" zvířata (= nejstarší zvíře každého druhu, pokud bych prodejem daného zvířete nepřišel o posledního zástupce daného druhu)", "note": "" },
-        "3": { "text": "* Vypište ošetřovatele, s nimiž si má Luke JANSA o čem popovídat (= mají rádi společně rádi alespoň jeden druh)", "note": "" }
+        "2": { "text": "Jméno a druh \"prodatelných\" zvířata", "note": "Nejstarší zvíře každého druhu, pokud by prodejem daného zvířete nepřišel o posledního zástupce daného druhu" },
+        "3": { "text": "Vypište ošetřovatele, s nimiž si má Luke JANSA o čem popovídat", "note": "Mají rádi společně rádi alespoň jeden druh" }
       },
-      "W": {
-        "1": { "text": "(10% a bonbón) Vypište jméno váhově nejprůměrnějšího zvířete (zvíře, jehož váha se od průměrné váhy všech zvířat liší co nejméně) Výsledkem by mělo být pouze jméno, nic víc", "note": "" }
+      "W 🍬": {
+        "1": { "text": "Vypište jméno váhově nejprůměrnějšího zvířete, Výsledkem by mělo být pouze jméno, nic víc", "note": "Zvíře, jehož váha se od průměrné váhy všech zvířat liší co nejméně" }
       }
     },
     "K5": {
       "X": {
         "1": { "text": "Ošetřovatele, kteří ošetřují dvě (nebo více) zvířat se shodným datem narození", "note": "" },
-        "2": { "text": "Nejplodnější den (den, kdy se narodilo nejvíce zvířat - chce se pouze datum!)", "note": "" },
+        "2": { "text": "Nejplodnější den - chce se pouze datum!", "note": "Den, kdy se narodilo nejvíce zvířat " },
         "3": { "text": "Nejstarší nemilované zvíře (chce se POUZE JMÉNO!)", "note": "" }
       },
       "Y": {
