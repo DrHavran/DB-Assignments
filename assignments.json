@@ -77,7 +77,7 @@
     },
     "K1": {
       "P": {
-        "1": { "text": "Kolik druhů nikdo nemá rád?", "note": "ON (xxx != yyy)\" - nebude fungovat" },
+        "1": { "text": "Kolik druhů nikdo nemá rád?", "note": "\"ON (xxx != yyy)\" - nebude fungovat" },
         "2": { "text": "Kteří ošetřovatelé ošetřují více zvířat stejného druhu?", "note": "" },
         "3": { "text": "Kteří ošetřovatelé ošetřují více zvířat se stejnou vahou?", "note": "" },
         "4": { "text": "Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 1x denně a má-li jej navíc rád, pak 2x denně?", "note": "" }
