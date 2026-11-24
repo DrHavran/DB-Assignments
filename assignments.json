@@ -77,10 +77,10 @@
     },
     "K1": {
       "P": {
-        "1": { "text": "Kolik druhů nikdo nemá rád? Hint: Pozor na \"... ON (xxx != yyy) ... \" - to asi nebude fungovat (zdůvodněte si proč!). Zkuste si raději v jednom dotazu spočítat počet druhů celkem a počet druhů, které někdo má rád.", "note": "" },
-        "2": { "text": "Kteří ošetřovatelé ošetřují více zvířat stejného druhu? Hint: Zvládnete vypsat, kolik zvířat od kterého druhu ošetřují jednotliví ošetřovatelé?", "note": "" },
-        "3": { "text": "Kteří ošetřovatelé ošetřují více zvířat se stejnou vahou? Hint: Možná že budete některé tabulky potřebovat vícekrát....", "note": "" },
-        "4": { "text": "* Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 1x denně a má-li jej navíc rád, pak 2x denně? Hint: Zkuste taky něco bez nápovědy :-)", "note": "" }
+        "1": { "text": "Kolik druhů nikdo nemá rád?", "note": "ON (xxx != yyy)\" - nebude fungovat" },
+        "2": { "text": "Kteří ošetřovatelé ošetřují více zvířat stejného druhu?", "note": "" },
+        "3": { "text": "Kteří ošetřovatelé ošetřují více zvířat se stejnou vahou?", "note": "" },
+        "4": { "text": "Vypište celkový počet \"denních chodů\" za předpokladu, že každý ošetřovatel nakrmí každého ze svých svěřenců 1x denně a má-li jej navíc rád, pak 2x denně?", "note": "" }
       }
     },
     "K2": {
